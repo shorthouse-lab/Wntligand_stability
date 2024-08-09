@@ -1,0 +1,17 @@
+Case ID	Study ID	Number at Risk	Status	Survival Rate	Time (months)
+TCGA-AA-3984	coadread_tcga_pan_can_atlas_2018	16	censored	1	0
+TCGA-AM-5821	coadread_tcga_pan_can_atlas_2018	15	censored	1	0.920537857
+TCGA-AA-3492	coadread_tcga_pan_can_atlas_2018	14	deceased	0.9285714285714286	3.024624388
+TCGA-AA-3489	coadread_tcga_pan_can_atlas_2018	13	deceased	0.8571428571428572	7.035539337
+TCGA-DM-A1DA	coadread_tcga_pan_can_atlas_2018	12	deceased	0.7857142857142857	7.495808265
+TCGA-AG-3580	coadread_tcga_pan_can_atlas_2018	11	censored	0.7857142857142857	8.021829898
+TCGA-G4-6295	coadread_tcga_pan_can_atlas_2018	10	censored	0.7857142857142857	8.350593418
+TCGA-AZ-6600	coadread_tcga_pan_can_atlas_2018	9	deceased	0.6984126984126984	12.09849755
+TCGA-CA-6717	coadread_tcga_pan_can_atlas_2018	8	censored	0.6984126984126984	12.75602459
+TCGA-AA-A02R	coadread_tcga_pan_can_atlas_2018	7	deceased	0.5986394557823128	22.02715587
+TCGA-DY-A1DF	coadread_tcga_pan_can_atlas_2018	6	deceased	0.49886621315192736	24.1312424
+TCGA-AA-3947	coadread_tcga_pan_can_atlas_2018	5	censored	0.49886621315192736	33.00785745
+TCGA-AA-A010	coadread_tcga_pan_can_atlas_2018	4	censored	0.49886621315192736	34.98043857
+TCGA-AZ-6598	coadread_tcga_pan_can_atlas_2018	3	deceased	0.33257747543461824	49.41315712
+TCGA-AZ-4315	coadread_tcga_pan_can_atlas_2018	2	censored	0.33257747543461824	58.38840122
+TCGA-G4-6315	coadread_tcga_pan_can_atlas_2018	1	censored	0.33257747543461824	61.90617089
